@@ -1,0 +1,20 @@
+{
+  "name": "mmo-game",
+  "version": "1.0.0",
+  "description": "A JavaScript basic implementation of a Massive Multiplay Online Game to run on browser with Node.js and P5.js.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": ["javascript", "js", "mmo", "game", "node", "nodejs", "p5", "p5js"],
+  "author": "Raphael Bruno",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
