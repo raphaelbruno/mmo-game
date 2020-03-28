@@ -3,7 +3,7 @@ A JavaScript basic implementation of a Massive Multiplay Online Game to run on b
 
 The project has a application service to run static files running on port 80 and a socket service to make the multiplay game work, it is running on port 3000.
 
-The game is very basic, it allows just to click on screen to move your player, and see another players moving around of the screen, where you are the white circle and anothers players are gray circles.
+The game is very basic, it allows just to click on screen to move your player, and see another players moving around of the screen, you are the white circle and another players are the gray circles.
 
 ![preview](preview.png)
 
@@ -12,7 +12,7 @@ The game is very basic, it allows just to click on screen to move your player, a
 npm i
 ```
 
-### Backend Run
+### Run
 ```
 npm run start
 ```
